@@ -1,1 +1,2 @@
 # ml-project
+This project presents a machine learning-based system for detecting network anomalies using both supervised and unsupervised techniques. A simulated network environment was created to generate realistic traffic data under different conditions. Models like Random Forest and SVM were applied to identify anomalies such as congestion and packet loss with high accuracy. The system also incorporates SHAP for explainability and lays the foundation for real-world deployment in network security.
